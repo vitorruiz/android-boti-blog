@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Boti Blog</string>
+
+    <!-- Buttons -->
+    <string name="button_publish">Publicar</string>
+    <string name="button_login">Entrar</string>
+    <string name="button_register">Cadastrar</string>
+
+    <!-- Menu -->
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Excluir</string>
+    <string name="menu_logout">Sair</string>
+
+    <!-- Navigation -->
+    <string name="nav_feed">Feed</string>
+    <string name="nav_news">Notícias</string>
+
+    <!-- Splash -->
+    <string name="splash_label_name">Vitor Puzzello Ruiz</string>
+    <string name="splash_label_description">linkedin: /ruizvitor\n\n#pai de gato\n#somelier de burguers e cafés\n#gamer</string>
+
+    <!-- Login -->
+    <string name="login_hint_email">E-mail</string>
+    <string name="login_hint_password">Senha</string>
+
+    <!-- Register -->
+    <string name="register_hint_email">E-mail</string>
+    <string name="register_hint_name">Nome</string>
+    <string name="register_hint_password">Senha</string>
+    <string name="register_hint_password_confirmation">Confirmação de senha</string>
+    <string name="register_message_success">Cadastrado realizado com sucesso</string>
+    <string name="register_field_error_mandatory">Campo obrigatório</string>
+    <string name="register_field_error_password_not_match">Confirmação de senha está diferente</string>
+    <string name="register_field_error_invalid_email">Insira um e-mail válido</string>
+
+    <!-- New post -->
+    <string name="new_post_title_new_post">Nova postagem</string>
+    <string name="new_post_title_edit_post">Editar postagem</string>
+    <string name="new_post_hint_content">Escreva algo legal para o Boti Blog !</string>
+
+</resources>

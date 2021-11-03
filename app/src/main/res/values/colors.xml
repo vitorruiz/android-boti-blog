@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">@color/brandPrimaryColor</color>
+    <color name="primaryVariant">@color/brandPrimaryVariant</color>
+    <color name="secondaryColor">@color/brandSecondaryColor</color>
+    <color name="secondaryVariant">@color/brandSecondaryVariant</color>
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="errorColor">#B00020</color>
+
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="onSecondaryColor">#FFFFFF</color>
+    <color name="onBackgroundColor">#000000</color>
+    <color name="onSurfaceColor">#000000</color>
+    <color name="onErrorColor">#FFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dividerColor">#1F000000</color>
+
+    <!-- Brand -->
+    <color name="brandPrimaryColor">@color/yellow_900</color>
+    <color name="brandPrimaryVariant">@color/yellow_800</color>
+    <color name="brandSecondaryColor">@color/light_green_300</color>
+    <color name="brandSecondaryVariant">@color/light_green_500</color>
+
+</resources>
